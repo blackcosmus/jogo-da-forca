@@ -24,4 +24,4 @@ Você tem 6 tentativas. Letras repetidas não contam como erro.
 - `input().lower().strip()` e dicionários
 - Desenho ASCII do boneco da forca
 
-Feito com a ajuda do meu sensei de programação.
+Feito com um auxílio de um amigo.
